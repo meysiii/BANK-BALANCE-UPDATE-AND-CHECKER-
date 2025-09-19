@@ -81,7 +81,7 @@ Can be used as a base for larger finance-related projects.
 
 # output
 
-
+<img width="1920" height="1030" alt="Image" src="https://github.com/user-attachments/assets/70174a4a-fcf0-406f-a8dc-2082e5a8bd7a" />
 
 # 🔹 Future Enhancements
 
