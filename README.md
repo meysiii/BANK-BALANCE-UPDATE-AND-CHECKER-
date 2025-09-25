@@ -41,8 +41,7 @@ Loops (Menu-driven system)
 
 Clone this repository:
 
-git clone https://github.com/your-username/bank-balance.git
-
+git clone https://github.com/meysiii/BANK-BALANCE-UPDATE-AND-CHECKER-
 
 # Navigate to the project folder:
 
